@@ -1,0 +1,15 @@
+"Games"
+{
+    "*"
+    {
+        "Signatures"
+        {
+			"ImageBase"
+			{
+				"library"	"server"
+				"linux"		"\x7F\x45\x4C\x46"
+				"linux64"	"\x7F\x45\x4C\x46"
+			}
+        }
+    }
+}
